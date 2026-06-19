@@ -14,6 +14,9 @@ Most of my education came from my own mistakes. This is where I share what I lea
 ---
 
 📺 YouTube: [The Thinking Engineer](https://youtube.com/@thethinkingeng)
+
 🐦 X: [@JohnNickell_TE](https://x.com/JohnNickell_TE)
+
 🔗 LinkedIn: [john-r-nickell](https://linkedin.com/in/john-r-nickell)
+
 🦋 Bluesky: [@johnnickell.bsky.social](https://bsky.app/profile/johnnickell.bsky.social)
