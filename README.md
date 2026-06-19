@@ -20,3 +20,5 @@ Most of my education came from my own mistakes. This is where I share what I lea
 🔗 LinkedIn: [john-r-nickell](https://linkedin.com/in/john-r-nickell)
 
 🦋 Bluesky: [@johnnickell.bsky.social](https://bsky.app/profile/johnnickell.bsky.social)
+
+🎧 DEV: [@johnnickell](https://dev.to/johnnickell)
